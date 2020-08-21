@@ -49,7 +49,7 @@ public class App {
         		+ "<html><body>"
                         + "<center>"
                         + "<h2>Calculadora de media y desviación estándar de un conjunto de números reales</h2>"
-        		+ "<h3>Ingrese el conjunto de números separado por un espacio</h3>"
+        		+ "<h3>Ingrese el conjunto de números separado por un punto y coma (;) </h3>"
         		+ "<form action='salida'>"
         		+ "<input  type='text' name='datos' placeholder=\"Ej. 1;2;3;4;9\" required>"
         		+ "<input type='submit' value='Calcular'>"
