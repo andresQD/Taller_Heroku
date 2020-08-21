@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package edu.escuelaing.arep.app;
+package edu.escuelaing.arep;
 
 /**
  * La clase Nodo permite referenciar los elementos dentro de la lissta encadenada
- * @author Andrés Quintero
+ * @author Andrï¿½s Quintero
  */
 public class Nodo {
     //datos
@@ -24,7 +24,7 @@ public class Nodo {
     }
     
     /**
-     * Este método permite traer datos dentro de la lista encadenada
+     * Este mï¿½todo permite traer datos dentro de la lista encadenada
      * 
      */
     public float getI() {
@@ -32,7 +32,7 @@ public class Nodo {
     }
     
     /**
-     * Este método permite asignar datos dentro de la lista encadenada
+     * Este mï¿½todo permite asignar datos dentro de la lista encadenada
      * @param i
      */
     public void setI(float i) {
@@ -40,7 +40,7 @@ public class Nodo {
     }
     
     /**
-     * Este método permite traer el nodo siguiente de otro nodo dentro de la lista encadenada
+     * Este mï¿½todo permite traer el nodo siguiente de otro nodo dentro de la lista encadenada
      * 
      */
     public Nodo getSiguiente() {
@@ -48,7 +48,7 @@ public class Nodo {
     }
     
     /**
-     * Este método permite asignar el nodo siguiente de otro nodo dentro de la lista encadenada
+     * Este mï¿½todo permite asignar el nodo siguiente de otro nodo dentro de la lista encadenada
      * @param n
      */
     public void setSiguiente(Nodo n) {
