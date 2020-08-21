@@ -1,4 +1,9 @@
-﻿# Introduction to Complex Systems, Java, mvn and git
+[![CircleCI](https://circleci.com/gh/andresQD/Taller_Heroku.svg?style=svg)](https://circleci.com/gh/andresQD/Taller_Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-webapp.herokuapp.com/)
+### Link a la app
+https://arep-webapp.herokuapp.com/
+
+# Introduction to Complex Systems, Java, mvn and git
 ## Profesor 
 ### Ing Luis Daniel Benavides Navarro
 ## Presentado por 
@@ -14,6 +19,10 @@ Debe tener instalado:
 * JDK 
 * Maven 
 ## Uso 
-Para que el programa funcione correctamente debe cambiar el nombre del archivo(cuadro rojo), según como lo necesite
+Debe ingresar el conjunto de números para que se realicen las operaciones
 
-![Screenshot_1](https://user-images.githubusercontent.com/48091585/90182930-4e700680-dd78-11ea-9349-b4954c1e667b.png)
+![sw1](https://user-images.githubusercontent.com/48091585/90846524-f6b03d00-e32d-11ea-8c2f-2d6d28b1f3df.png)
+
+Una vez le de en calcular le saldrá una nueva pantalla con los resultados
+
+![sw2](https://user-images.githubusercontent.com/48091585/90846671-43941380-e32e-11ea-8b83-51505c3fd307.png)
