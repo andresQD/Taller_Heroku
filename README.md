@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/andresQD/Taller_Heroku.svg?style=svg)](https://circleci.com/gh/andresQD/Taller_Heroku)
+[![CircleCI](https://circleci.com/gh/andresQD/Taller_Heroku.svg?style=svg)](https://circleci.com/gh/andresQD/Arep_lab03)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://arep-webapp.herokuapp.com/)
 ### Link a la app
 https://arep-webapp.herokuapp.com/
